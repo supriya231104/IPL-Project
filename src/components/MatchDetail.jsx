@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import InPageNavigation from "./inPageNavigation";
+import InPageNavigation from "./InPageNavigation";
 function MatchDetail() {
   let fixedData = {
     matchInfo: {
